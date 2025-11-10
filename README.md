@@ -21,8 +21,8 @@ It also models **fluid–structure interaction** via the **Lambert tube law**, a
 
 | File | Description |
 |------|------------|
-| `adam.py` | Main solver – wall deformation (Lambert model) |
-| `casrigidelkhr.py` | Rigid tube version (Poiseuille benchmark) |
+| `resolution_souple.py` | Main solver – wall deformation (Lambert model) |
+| `resolution_rigide.py` | Rigid tube version (Poiseuille benchmark) |
 | `plots/` | Plots & animations (optional) |
 
 ---
